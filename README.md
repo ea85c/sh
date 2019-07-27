@@ -29,7 +29,7 @@
    - [ShadowsocksR 账号在线监控网站](https://github.com/ToyoDAdoubi/doubi#ssrstatussh)
    
 - status.sh
-   - [ServerStatus 一键安装管理脚本](https://github.com/ToyoDAdoubi/doubi#statussh)
+   - [ServerStatus 一键安装管理脚本](https://github.com/CokeMine/ServerStatus-Hotaru)
    
 - swap.sh
    - [Linux VPS一键添加/删除Swap虚拟内存](https://www.moerats.com/archives/722/)
